@@ -1,0 +1,5 @@
+.idea
+./model/logs
+./model/experiments
+
+*.csv

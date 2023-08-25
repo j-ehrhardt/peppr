@@ -1,0 +1,37 @@
+{
+    "2014": {
+        "EXPERIMENT_ID": 2014,
+        "DEVICE": 0,
+        "MODEL": "multi_inv2",
+        "DATA_DIR": "../data/physical/ds5/",
+        "LOG_DIR": "logs/real/multi/physical/ds5/multi_inv2/",
+        "SEED": 42,
+        "SEQ_LEN": 512,
+        "BATCH_SIZE": 512,
+        "NUM_WORKERS": 8,
+        "MAX_EPOCHS": 1000,
+        "LEARNING_RATE": 1e-05,
+        "WEIGHT_DECAY": 1e-07,
+        "CONV_N_FILT": 4,
+        "CONV_ENCS": [
+            4,
+            4,
+            8
+        ],
+        "CONV_N_KERNEL": 3,
+        "CONV_STRIDE": 2,
+        "CONV_DIL": 1,
+        "VAR_N_LAT": 10,
+        "CORE_ENCS": [
+            0.8,
+            0.4,
+            0.2,
+            0.2
+        ],
+        "KL_WEIGHT": 0.0001,
+        "LAMBDA_X": 2.5,
+        "LAMBDA_Y": 0.5,
+        "LAMBDA_Z": 0.0001,
+        "DS_SAMPLING": 1
+    }
+}
