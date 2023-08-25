@@ -53,7 +53,7 @@ The `data_module.py` file contains all necessary dataimport and dataloaders.
 
 The `eval_module.py` file contains the evaluation metrics. 
 
-The `train_modle.py` file contains the training procedures for all network architectures. 
+The `train_module.py` file contains the training procedures for all network architectures. 
 
 The `module.py` file contains the network architecture components, the networks are defined in the `nets.py` file. 
 
