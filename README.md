@@ -65,12 +65,17 @@ The `ultils.py` and `vis_utils.py` files contain utility and visualization funct
 
 When using the code from this paper, please cite: 
 ```
-@inproceedings{Ehrhardt2023,
-  title={Learning Process Steps as Dynamical Systems for a Sub-Symbolic Approach of Process Planning in Cyber-Physical Production Systems},
-  author={Jonas Ehrhardt and René Heesch and Oliver Niggemann},
-  booktitle={Proceedings of the HYDRA Workshop at ECAI'23},
-  year={2023}
+@ARTICLE{Ehrhardt2024-ke,
+  title     = "Learning process steps as dynamical systems for a sub-symbolic
+               approach of process planning in {Cyber-Physical} Production
+               Systems",
+  author    = "Ehrhardt, Jonas and Heesch, Ren{\'e} and Niggemann, Oliver",
+  journal   = "Commun. Comput. Inf. Sci.",
+  publisher = "Springer Nature Switzerland",
+  pages     = "332--345",
+  year      =  2024,
 }
+
 ```
 
 
