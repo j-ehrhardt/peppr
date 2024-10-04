@@ -1,7 +1,7 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-brightgreen.svg)](https://www.python.org/downloads/release/python-380/)
+[![Mamba](https://img.shields.io/badge/Mamba-1.5.8-green)](https://mamba.readthedocs.io)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.3.0-red)](https://pytorch.org/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 # Peppr - Learning Process Steps as Dynamical Systems
 
@@ -25,7 +25,7 @@ You can access the paper [here](https://www.researchgate.net/publication/XXXX)
 ## Requirements
 
 Python and venv requirements cf. `peppr.yml`.
-To install the venv with Anaconda: (1) change the path in `peppr.yml` to the directory you want to install the venv. (2) Open the file location in your terminal and type `conda env create -f peppr.yml`.
+To install the venv with Anaconda: (1) change the path in `peppr.yml` to the directory you want to install the venv. (2) Open the file location in your terminal and type `mamba env create -f peppr.yml`.
 
 
 ## Data
